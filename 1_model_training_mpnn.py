@@ -167,8 +167,3 @@ trainer.fit(lightning_model, train_dataloaders=train_loader, val_dataloaders=val
 # Model testing (optional: you can also test the best model specifically)
 print('Starting model testing')
 trainer.test(lightning_model, dataloaders=test_loader)
-
-# You can also load the best model from the checkpoint path if you want to test it specifically later:
-# best_model_path = checkpoint_callback.best_model_path
-# best_model = GraphRegressionTask.load_from_checkpoint(best_model_path, model=model, learning_rate=0.001, train_mean=train_mean, train_std=train_std, losses=losses, csv_path=csv_path, test_dataset=test_dataset, base_feature_dim=base_feature_dim)
-# trainer.test(best_model, dataloaders=test_loader)
