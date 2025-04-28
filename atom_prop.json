@@ -1,0 +1,592 @@
+{
+    "H": {
+        "electronegativity": 2.2,
+        "vdw_radius": 110.00000000000001,
+        "eff_nuclear_charge": 1.0
+    },
+    "He": {
+        "electronegativity": null,
+        "vdw_radius": 140.0,
+        "eff_nuclear_charge": 1.7
+    },
+    "Li": {
+        "electronegativity": 0.98,
+        "vdw_radius": 182.0,
+        "eff_nuclear_charge": 1.3
+    },
+    "Be": {
+        "electronegativity": 1.57,
+        "vdw_radius": 153.0,
+        "eff_nuclear_charge": 1.9500000000000002
+    },
+    "B": {
+        "electronegativity": 2.04,
+        "vdw_radius": 192.0,
+        "eff_nuclear_charge": 2.6
+    },
+    "C": {
+        "electronegativity": 2.55,
+        "vdw_radius": 170.0,
+        "eff_nuclear_charge": 3.25
+    },
+    "N": {
+        "electronegativity": 3.04,
+        "vdw_radius": 155.0,
+        "eff_nuclear_charge": 3.9000000000000004
+    },
+    "O": {
+        "electronegativity": 3.44,
+        "vdw_radius": 152.0,
+        "eff_nuclear_charge": 4.55
+    },
+    "F": {
+        "electronegativity": 3.98,
+        "vdw_radius": 147.0,
+        "eff_nuclear_charge": 5.2
+    },
+    "Ne": {
+        "electronegativity": null,
+        "vdw_radius": 154.0,
+        "eff_nuclear_charge": 5.8500000000000005
+    },
+    "Na": {
+        "electronegativity": 0.93,
+        "vdw_radius": 227.0,
+        "eff_nuclear_charge": 2.1999999999999993
+    },
+    "Mg": {
+        "electronegativity": 1.31,
+        "vdw_radius": 173.0,
+        "eff_nuclear_charge": 2.8499999999999996
+    },
+    "Al": {
+        "electronegativity": 1.61,
+        "vdw_radius": 184.0,
+        "eff_nuclear_charge": 3.5
+    },
+    "Si": {
+        "electronegativity": 1.9,
+        "vdw_radius": 210.0,
+        "eff_nuclear_charge": 4.149999999999999
+    },
+    "P": {
+        "electronegativity": 2.19,
+        "vdw_radius": 180.0,
+        "eff_nuclear_charge": 4.799999999999999
+    },
+    "S": {
+        "electronegativity": 2.58,
+        "vdw_radius": 180.0,
+        "eff_nuclear_charge": 5.449999999999999
+    },
+    "Cl": {
+        "electronegativity": 3.16,
+        "vdw_radius": 175.0,
+        "eff_nuclear_charge": 6.1
+    },
+    "Ar": {
+        "electronegativity": 0,
+        "vdw_radius": 188.0,
+        "eff_nuclear_charge": 6.75
+    },
+    "K": {
+        "electronegativity": 0.82,
+        "vdw_radius": 275.0,
+        "eff_nuclear_charge": 2.1999999999999993
+    },
+    "Ca": {
+        "electronegativity": 1.0,
+        "vdw_radius": 231.0,
+        "eff_nuclear_charge": 2.849999999999998
+    },
+    "Sc": {
+        "electronegativity": 1.36,
+        "vdw_radius": 215.0,
+        "eff_nuclear_charge": 3.0
+    },
+    "Ti": {
+        "electronegativity": 1.54,
+        "vdw_radius": 211.0,
+        "eff_nuclear_charge": 3.1499999999999986
+    },
+    "V": {
+        "electronegativity": 1.63,
+        "vdw_radius": 206.99999999999997,
+        "eff_nuclear_charge": 3.299999999999997
+    },
+    "Cr": {
+        "electronegativity": 1.66,
+        "vdw_radius": 206.0,
+        "eff_nuclear_charge": 2.9499999999999993
+    },
+    "Mn": {
+        "electronegativity": 1.55,
+        "vdw_radius": 204.99999999999997,
+        "eff_nuclear_charge": 3.599999999999998
+    },
+    "Fe": {
+        "electronegativity": 1.83,
+        "vdw_radius": 204.0,
+        "eff_nuclear_charge": 3.75
+    },
+    "Co": {
+        "electronegativity": 1.88,
+        "vdw_radius": 200.0,
+        "eff_nuclear_charge": 3.8999999999999986
+    },
+    "Ni": {
+        "electronegativity": 1.91,
+        "vdw_radius": 197.0,
+        "eff_nuclear_charge": 4.049999999999997
+    },
+    "Cu": {
+        "electronegativity": 1.9,
+        "vdw_radius": 196.0,
+        "eff_nuclear_charge": 3.6999999999999993
+    },
+    "Zn": {
+        "electronegativity": 1.65,
+        "vdw_radius": 200.99999999999997,
+        "eff_nuclear_charge": 4.349999999999998
+    },
+    "Ga": {
+        "electronegativity": 1.81,
+        "vdw_radius": 187.0,
+        "eff_nuclear_charge": 5.0
+    },
+    "Ge": {
+        "electronegativity": 2.01,
+        "vdw_radius": 211.0,
+        "eff_nuclear_charge": 5.649999999999999
+    },
+    "As": {
+        "electronegativity": 2.18,
+        "vdw_radius": 185.0,
+        "eff_nuclear_charge": 6.300000000000001
+    },
+    "Se": {
+        "electronegativity": 2.55,
+        "vdw_radius": 190.0,
+        "eff_nuclear_charge": 6.949999999999999
+    },
+    "Br": {
+        "electronegativity": 2.96,
+        "vdw_radius": 185.0,
+        "eff_nuclear_charge": 7.600000000000001
+    },
+    "Kr": {
+        "electronegativity": null,
+        "vdw_radius": 202.0,
+        "eff_nuclear_charge": 8.25
+    },
+    "Rb": {
+        "electronegativity": 0.82,
+        "vdw_radius": 303.0,
+        "eff_nuclear_charge": 2.200000000000003
+    },
+    "Sr": {
+        "electronegativity": 0.95,
+        "vdw_radius": 249.00000000000003,
+        "eff_nuclear_charge": 2.8500000000000014
+    },
+    "Y": {
+        "electronegativity": 1.22,
+        "vdw_radius": 231.99999999999997,
+        "eff_nuclear_charge": 3.0
+    },
+    "Zr": {
+        "electronegativity": 1.33,
+        "vdw_radius": 223.0,
+        "eff_nuclear_charge": 3.1499999999999986
+    },
+    "Nb": {
+        "electronegativity": 1.6,
+        "vdw_radius": 218.00000000000003,
+        "eff_nuclear_charge": 2.799999999999997
+    },
+    "Mo": {
+        "electronegativity": 2.16,
+        "vdw_radius": 217.0,
+        "eff_nuclear_charge": 2.950000000000003
+    },
+    "Tc": {
+        "electronegativity": 2.1,
+        "vdw_radius": 216.0,
+        "eff_nuclear_charge": 3.6000000000000014
+    },
+    "Ru": {
+        "electronegativity": 2.2,
+        "vdw_radius": 213.0,
+        "eff_nuclear_charge": 3.25
+    },
+    "Rh": {
+        "electronegativity": 2.28,
+        "vdw_radius": 210.0,
+        "eff_nuclear_charge": 3.3999999999999986
+    },
+    "Pd": {
+        "electronegativity": 2.2,
+        "vdw_radius": 210.0,
+        "eff_nuclear_charge": 6.850000000000001
+    },
+    "Ag": {
+        "electronegativity": 1.93,
+        "vdw_radius": 211.0,
+        "eff_nuclear_charge": 3.700000000000003
+    },
+    "Cd": {
+        "electronegativity": 1.69,
+        "vdw_radius": 218.00000000000003,
+        "eff_nuclear_charge": 4.350000000000001
+    },
+    "In": {
+        "electronegativity": 1.78,
+        "vdw_radius": 193.0,
+        "eff_nuclear_charge": 5.0
+    },
+    "Sn": {
+        "electronegativity": 1.96,
+        "vdw_radius": 217.0,
+        "eff_nuclear_charge": 5.650000000000006
+    },
+    "Sb": {
+        "electronegativity": 2.05,
+        "vdw_radius": 206.0,
+        "eff_nuclear_charge": 6.300000000000004
+    },
+    "Te": {
+        "electronegativity": 2.1,
+        "vdw_radius": 206.0,
+        "eff_nuclear_charge": 6.950000000000003
+    },
+    "I": {
+        "electronegativity": 2.66,
+        "vdw_radius": 198.0,
+        "eff_nuclear_charge": 7.600000000000001
+    },
+    "Xe": {
+        "electronegativity": 2.6,
+        "vdw_radius": 216.0,
+        "eff_nuclear_charge": 8.25
+    },
+    "Cs": {
+        "electronegativity": 0.79,
+        "vdw_radius": 343.0,
+        "eff_nuclear_charge": 2.200000000000003
+    },
+    "Ba": {
+        "electronegativity": 0.89,
+        "vdw_radius": 268.0,
+        "eff_nuclear_charge": 2.8500000000000014
+    },
+    "La": {
+        "electronegativity": 1.1,
+        "vdw_radius": 243.00000000000003,
+        "eff_nuclear_charge": 3.0
+    },
+    "Ce": {
+        "electronegativity": 1.12,
+        "vdw_radius": 242.0,
+        "eff_nuclear_charge": 3.0
+    },
+    "Pr": {
+        "electronegativity": 1.13,
+        "vdw_radius": 240.0,
+        "eff_nuclear_charge": 2.8500000000000014
+    },
+    "Nd": {
+        "electronegativity": 1.14,
+        "vdw_radius": 239.0,
+        "eff_nuclear_charge": 2.8500000000000014
+    },
+    "Pm": {
+        "electronegativity": null,
+        "vdw_radius": 238.0,
+        "eff_nuclear_charge": 2.8500000000000014
+    },
+    "Sm": {
+        "electronegativity": 1.17,
+        "vdw_radius": 236.0,
+        "eff_nuclear_charge": 2.8500000000000014
+    },
+    "Eu": {
+        "electronegativity": null,
+        "vdw_radius": 235.0,
+        "eff_nuclear_charge": 2.8500000000000014
+    },
+    "Gd": {
+        "electronegativity": 1.2,
+        "vdw_radius": 234.0,
+        "eff_nuclear_charge": 3.0
+    },
+    "Tb": {
+        "electronegativity": null,
+        "vdw_radius": 233.0,
+        "eff_nuclear_charge": 2.8500000000000014
+    },
+    "Dy": {
+        "electronegativity": 1.22,
+        "vdw_radius": 231.0,
+        "eff_nuclear_charge": 2.8500000000000014
+    },
+    "Ho": {
+        "electronegativity": 1.23,
+        "vdw_radius": 229.99999999999997,
+        "eff_nuclear_charge": 2.8500000000000085
+    },
+    "Er": {
+        "electronegativity": 1.24,
+        "vdw_radius": 229.0,
+        "eff_nuclear_charge": 2.8500000000000085
+    },
+    "Tm": {
+        "electronegativity": 1.25,
+        "vdw_radius": 227.0,
+        "eff_nuclear_charge": 2.8500000000000085
+    },
+    "Yb": {
+        "electronegativity": null,
+        "vdw_radius": 225.99999999999997,
+        "eff_nuclear_charge": 2.8500000000000085
+    },
+    "Lu": {
+        "electronegativity": 1.0,
+        "vdw_radius": 224.00000000000003,
+        "eff_nuclear_charge": 3.0
+    },
+    "Hf": {
+        "electronegativity": 1.3,
+        "vdw_radius": 223.0,
+        "eff_nuclear_charge": 3.1500000000000057
+    },
+    "Ta": {
+        "electronegativity": 1.5,
+        "vdw_radius": 222.00000000000003,
+        "eff_nuclear_charge": 3.3000000000000114
+    },
+    "W": {
+        "electronegativity": 1.7,
+        "vdw_radius": 218.00000000000003,
+        "eff_nuclear_charge": 3.450000000000003
+    },
+    "Re": {
+        "electronegativity": 1.9,
+        "vdw_radius": 216.0,
+        "eff_nuclear_charge": 3.6000000000000085
+    },
+    "Os": {
+        "electronegativity": 2.2,
+        "vdw_radius": 216.0,
+        "eff_nuclear_charge": 3.75
+    },
+    "Ir": {
+        "electronegativity": 2.2,
+        "vdw_radius": 213.0,
+        "eff_nuclear_charge": 3.9000000000000057
+    },
+    "Pt": {
+        "electronegativity": 2.2,
+        "vdw_radius": 213.0,
+        "eff_nuclear_charge": 3.549999999999997
+    },
+    "Au": {
+        "electronegativity": 2.4,
+        "vdw_radius": 214.0,
+        "eff_nuclear_charge": 3.700000000000003
+    },
+    "Hg": {
+        "electronegativity": 1.9,
+        "vdw_radius": 223.0,
+        "eff_nuclear_charge": 4.3500000000000085
+    },
+    "Tl": {
+        "electronegativity": 1.8,
+        "vdw_radius": 196.0,
+        "eff_nuclear_charge": 5.0
+    },
+    "Pb": {
+        "electronegativity": 1.8,
+        "vdw_radius": 202.0,
+        "eff_nuclear_charge": 5.650000000000006
+    },
+    "Bi": {
+        "electronegativity": 1.9,
+        "vdw_radius": 206.99999999999997,
+        "eff_nuclear_charge": 6.299999999999997
+    },
+    "Po": {
+        "electronegativity": 2.0,
+        "vdw_radius": 197.0,
+        "eff_nuclear_charge": 6.950000000000003
+    },
+    "At": {
+        "electronegativity": 2.2,
+        "vdw_radius": 202.0,
+        "eff_nuclear_charge": 7.6000000000000085
+    },
+    "Rn": {
+        "electronegativity": null,
+        "vdw_radius": 220.00000000000003,
+        "eff_nuclear_charge": 8.25
+    },
+    "Fr": {
+        "electronegativity": 0.7,
+        "vdw_radius": 348.0,
+        "eff_nuclear_charge": 2.200000000000003
+    },
+    "Ra": {
+        "electronegativity": 0.9,
+        "vdw_radius": 283.0,
+        "eff_nuclear_charge": 2.8500000000000085
+    },
+    "Ac": {
+        "electronegativity": 1.1,
+        "vdw_radius": 247.00000000000003,
+        "eff_nuclear_charge": 3.0
+    },
+    "Th": {
+        "electronegativity": 1.3,
+        "vdw_radius": 245.00000000000003,
+        "eff_nuclear_charge": 3.1500000000000057
+    },
+    "Pa": {
+        "electronegativity": 1.5,
+        "vdw_radius": 243.00000000000003,
+        "eff_nuclear_charge": 3.0
+    },
+    "U": {
+        "electronegativity": 1.7,
+        "vdw_radius": 241.0,
+        "eff_nuclear_charge": 3.0
+    },
+    "Np": {
+        "electronegativity": 1.3,
+        "vdw_radius": 239.0,
+        "eff_nuclear_charge": 3.0
+    },
+    "Pu": {
+        "electronegativity": 1.3,
+        "vdw_radius": 243.00000000000003,
+        "eff_nuclear_charge": 2.8500000000000085
+    },
+    "Am": {
+        "electronegativity": null,
+        "vdw_radius": 244.0,
+        "eff_nuclear_charge": 2.8500000000000085
+    },
+    "Cm": {
+        "electronegativity": null,
+        "vdw_radius": 245.00000000000003,
+        "eff_nuclear_charge": 3.0
+    },
+    "Bk": {
+        "electronegativity": null,
+        "vdw_radius": 244.0,
+        "eff_nuclear_charge": 2.8500000000000085
+    },
+    "Cf": {
+        "electronegativity": null,
+        "vdw_radius": 245.00000000000003,
+        "eff_nuclear_charge": 2.8500000000000085
+    },
+    "Es": {
+        "electronegativity": null,
+        "vdw_radius": 245.00000000000003,
+        "eff_nuclear_charge": 2.8500000000000085
+    },
+    "Fm": {
+        "electronegativity": null,
+        "vdw_radius": 245.00000000000003,
+        "eff_nuclear_charge": 2.8500000000000085
+    },
+    "Md": {
+        "electronegativity": null,
+        "vdw_radius": 246.0,
+        "eff_nuclear_charge": 2.8500000000000085
+    },
+    "No": {
+        "electronegativity": null,
+        "vdw_radius": 246.0,
+        "eff_nuclear_charge": 2.8500000000000085
+    },
+    "Lr": {
+        "electronegativity": null,
+        "vdw_radius": 246.0,
+        "eff_nuclear_charge": 3.5
+    },
+    "Rf": {
+        "electronegativity": null,
+        "vdw_radius": null,
+        "eff_nuclear_charge": 3.1500000000000057
+    },
+    "Db": {
+        "electronegativity": null,
+        "vdw_radius": null,
+        "eff_nuclear_charge": 3.3000000000000114
+    },
+    "Sg": {
+        "electronegativity": null,
+        "vdw_radius": null,
+        "eff_nuclear_charge": 3.450000000000003
+    },
+    "Bh": {
+        "electronegativity": null,
+        "vdw_radius": null,
+        "eff_nuclear_charge": 3.6000000000000085
+    },
+    "Hs": {
+        "electronegativity": null,
+        "vdw_radius": null,
+        "eff_nuclear_charge": 3.75
+    },
+    "Mt": {
+        "electronegativity": null,
+        "vdw_radius": null,
+        "eff_nuclear_charge": 3.9000000000000057
+    },
+    "Ds": {
+        "electronegativity": null,
+        "vdw_radius": null,
+        "eff_nuclear_charge": 3.549999999999997
+    },
+    "Rg": {
+        "electronegativity": null,
+        "vdw_radius": null,
+        "eff_nuclear_charge": 3.700000000000003
+    },
+    "Cn": {
+        "electronegativity": null,
+        "vdw_radius": null,
+        "eff_nuclear_charge": 4.3500000000000085
+    },
+    "Nh": {
+        "electronegativity": null,
+        "vdw_radius": null,
+        "eff_nuclear_charge": 5.0
+    },
+    "Fl": {
+        "electronegativity": null,
+        "vdw_radius": null,
+        "eff_nuclear_charge": 5.650000000000006
+    },
+    "Mc": {
+        "electronegativity": null,
+        "vdw_radius": null,
+        "eff_nuclear_charge": 6.299999999999997
+    },
+    "Lv": {
+        "electronegativity": null,
+        "vdw_radius": null,
+        "eff_nuclear_charge": 6.950000000000003
+    },
+    "Ts": {
+        "electronegativity": null,
+        "vdw_radius": null,
+        "eff_nuclear_charge": 7.6000000000000085
+    },
+    "Og": {
+        "electronegativity": null,
+        "vdw_radius": null,
+        "eff_nuclear_charge": 8.25
+    }
+}
